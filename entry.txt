@@ -1,0 +1,1 @@
+I only wanted to clean up the database, but the cleanup script read 'delete' as a compliment and took it personally.
